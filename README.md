@@ -1,0 +1,2 @@
+# RapiVentaPos.io
+images public
